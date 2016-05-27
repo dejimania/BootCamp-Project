@@ -50,7 +50,7 @@ The following message will be displayed. Use the url to open application on your
  *  npm install
  * angular-seed@0.0.0 postinstall C:\Users\project
  * bower install
- * angular-seed@0.0.0 start C:\Users\OBA\Desktop\project
+ * angular-seed@0.0.0 start C:\Users\project
  * http-server -a localhost -p 8000 -c-1
  * Starting up http-server, serving ./ on port: 8000
  * Hit CTRL-C to stop the server
